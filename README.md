@@ -1,6 +1,6 @@
 ### Hi, Welcome to my GitHub Profile 👋
 
-I'm Mert. I am a backend developer who is enthusiastic about JavaScript, PHP and Dart. 
+I'm Mert. I'm studying Computer Science in Izmir University of Economics and I'm a backend developer who is enthusiastic about JavaScript, PHP and Dart. 
 
 - 🔭 I’m currently working on [Wevent](https://wevent.io)
 - 🌱 I’m currently learning Dart
