@@ -8,4 +8,5 @@ I'm Mert. Just a
 - 😄 Pronouns: [Say Mert](http://github.com/mertcb/mertcb/m1706.wav)
 - ⚡ Fun fact: I can't say the letter R.
 
-![Mert's github stats](https://github-readme-stats.vercel.app/api?username=mertcb&show_icons=true&line_height=30)
+![Mert's github stats](https://github-readme-stats.vercel.app/api?username=mertcb&show_icons=true&theme=radical)
+
