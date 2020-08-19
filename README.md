@@ -8,6 +8,6 @@ I'm Mert. I'm studying Computer Science in Izmir University of Economics and I'm
 - 📫 How to reach me: You can send me an email to [mertcb@ieee.org](mailto://mertcb@ieee.org)
 - ⚡ Fun fact: I can't say the letter R.
 
-![Mert's lang stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mertcb&theme=radical)
+![Visitor Count](https://profile-counter.glitch.me/mertcb/count.svg)
 ![Mert's github stats](https://github-readme-stats.vercel.app/api?username=mertcb&show_icons=true&theme=radical)
 
