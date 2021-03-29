@@ -7,6 +7,6 @@ I'm Mert. I'm studying Computer Science in Izmir University of Economics and I'm
 
 - 🌱 I’m currently dealing with microservices, dockerizing APIs, DevOps.
 - 💬 Ask me about anything you want
-- 📫 How to reach me: You can send me an email to [mertcb@ieee.org](mailto://mertcb@ieee.org)
+- 📫 How to reach me: You can send me an email to [mertcbilgic@gmail.com](mailto://mertcbilgic@gmail.com)
 - ⚡ Fun fact: I can't say the letter R.
 
